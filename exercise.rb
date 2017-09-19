@@ -21,3 +21,8 @@ def char_number(string)
      return true
    end
 end
+
+# exercise 5
+def greet_backwards(name)
+   puts "Hello #{name.reverse}! Welcome home."
+end
